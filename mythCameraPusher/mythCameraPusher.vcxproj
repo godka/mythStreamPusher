@@ -85,8 +85,10 @@
     <ClCompile Include="mythCamera.cpp" />
     <ClCompile Include="mythCameraDecoder.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mythDecoderFactory.cpp" />
     <ClCompile Include="mythDecoderPusher.cpp" />
     <ClCompile Include="mythFFmpegEncoder.cpp" />
+    <ClCompile Include="mythStreamDecoder.cpp" />
     <ClCompile Include="mythVirtualDecoder.cpp" />
     <ClCompile Include="PEOPLE.cpp" />
   </ItemGroup>
@@ -96,8 +98,10 @@
     <ClInclude Include="mythCamera.hh" />
     <ClInclude Include="mythCameraDecoder.hh" />
     <ClInclude Include="MythConfig.hh" />
+    <ClInclude Include="mythDecoderFactory.hh" />
     <ClInclude Include="mythDecoderPusher.hh" />
     <ClInclude Include="mythFFmpegEncoder.hh" />
+    <ClInclude Include="mythStreamDecoder.hh" />
     <ClInclude Include="mythVirtualDecoder.hh" />
     <ClInclude Include="PEOPLE.hh" />
   </ItemGroup>

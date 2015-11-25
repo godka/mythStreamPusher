@@ -45,6 +45,12 @@
     <ClCompile Include="mythBaseClient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mythDecoderFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mythStreamDecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mythCamera.hh">
@@ -72,6 +78,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="mythBaseClient.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mythDecoderFactory.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mythStreamDecoder.hh">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
